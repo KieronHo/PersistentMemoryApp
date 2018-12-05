@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProfileMaker</string>
+    <string name="profile_name_label">Profile Name: </string>
+    <string name="sports_list_label">List of Sports: </string>
+    <string name="team_list_label">List of Teams: </string>
+    <string name="to_edit_button">Edit Profile</string>
+    <string name="save_changes_button">Save Changes</string>
+</resources>
